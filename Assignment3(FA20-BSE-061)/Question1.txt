@@ -1,0 +1,33 @@
+# 25/11/23
+# CSC461 – Assignment3 – Machine Learning
+# Nosheen Azhar
+# FA20-BSE-061
+Description: The questions aim to gather information about the dataset, including the number of instances, input attributes, possible values in the output attribute, categorical attributes count, and the class ratio between male and female.
+
+
+Q1: Provide responses to the following questions about the dataset above.
+1.	How many instances does the dataset contain?
+The dataset contains 100 instances.
+2.	How many input attributes does the dataset contain?
+The dataset contains 8 input attributes: height, weight, beard, hair_length, shoe_size, scarf, eye_color, gender.
+3.	How many possible values does the output attribute have?
+The output attribute, gender, has two possible values: male and female.
+4.	How many input attributes are categorical?
+    6 of the input attributes are categorical:
+•	beard
+•	hair_length
+•	scarf
+•	eye_color
+•	gender
+    2 of the input attributes are numerical:
+•	height
+•	weight
+
+•	shoe_size
+5.	What is the class ratio (male vs female) in the dataset?
+To determine the class ratio, we can count the number of instances for each gender:
+Male: 62 instances
+Female: 48 instances
+Therefore, the class ratio is 62:48 or 56% male and 44% female.
+
+ 

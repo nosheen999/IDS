@@ -1,0 +1,14 @@
+# 25/11/23
+# CSC461 – Assignment3 – Machine Learning
+# Nosheen Azhar
+# FA20-BSE-061
+# Description: This involves implementing Logistic Regression, Support Vector Machines, and Multilayer Perceptron on a gender prediction dataset with varying train/test split ratios. Questions cover instances incorrectly classified, the impact of changing split ratios, identification of influential attributes, and the effects of excluding them.
+
+
+I chose show size and beard is the most important attributes in gender pridiction. Here is why shoe size and beard are considered to be relatively powerful attributes in the prediction task of gender:
+
+Shoe size:
+Shoe size tends to correlate with overall body size, which is a distinguishing factor between males and females. On average, males have larger shoe sizes than females. This size difference is primarily due to the skeletal differences between the genders, with males generally having larger bones and feet.
+
+Beard:
+The presence or absence of a beard is a strong visual indicator of gender. Beards are almost exclusively associated with males, with very few females naturally growing facial hair. The presence of a beard can be a quick and reliable indicator of gender in many cases.
